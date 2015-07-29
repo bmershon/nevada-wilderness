@@ -1,0 +1,51 @@
+.outline {
+    fill: #585852;
+    fill-opacity: 0.2;
+    stroke: grey;
+    stroke-width: 1px;
+}
+
+text {
+    font-size: 18pt;
+    fill: #000;
+    fill-opacity: 1;
+    stoke: none;
+    stroke-width: 1px;
+    text-anchor: end;
+}
+
+.area {
+    fill: #75A834;
+    fill-opacity: 1
+}
+
+.highlight {
+    fill-opacity: 1;
+}
+
+#gbnp {
+    fill: red;
+    fill-opacity: .5
+}
+
+#basin {
+    fill: #F1BE3E;
+    stroke: #000;
+    stroke-width: 1px;
+    fill-opacity: .5;
+}
+
+.nca {
+    fill: #cd8131;
+    fill-opacity: .5
+}
+
+.bar-tip {
+    fill: #75A834;
+    fill-opacity: 1;
+}
+
+.bar {
+    fill: #75A834;
+    fill-opacity: .5;
+}

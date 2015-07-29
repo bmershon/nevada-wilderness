@@ -1,18 +1,3 @@
-# OBAMAREID
-
-**Senator Harry Reid's conservation legacy in Nevada**
-
-Blurb:
->Expanding upon the nearly 4.4 million acres of protected areas that have been designated since Harry Reid came into office in 1982, the current Basin and Range National Monument proposal puts over 700,000 acres of land off limits to future development.
-
-**URL**
-
-**SHORT URL**
-
-**METHODE GRAPHIC STORY**
-
-**PROMO IMAGE**
-
 ### Quickstart ###
 
 Install the `node` requirements (Topojson, ).
@@ -24,9 +9,6 @@ Download, filter, and project stuff to make maps! *This takes a while.*
 make
 ```
 You can use `make clean` to start afresh, and you can use `make redo` to re-project without deleting all those downloaded files that took *forever* to complete.
-
-Click the **SVG Crowbar 2** button to download the whole shebang as an SVG.
-
 
 ### Development
 
