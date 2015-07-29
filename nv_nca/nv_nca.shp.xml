@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>USDOI - BLM - Nevada State Office - Mapping Sciences</origin>
+				<title>National Conservation Areas Nevada (poly)</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Reno, Nevada</pubplace>
+					<publish>USDOI - Bureau of Land Management</publish>
+				</pubinfo>
+				<lworkcit>
+					<citeinfo>
+						<origin>US DOI Bureau of Land Management</origin>
+						<pubdate>Unknown</pubdate>
+						<title>National Landscape Conservation System (NLCS)</title>
+						<pubinfo>
+						</pubinfo>
+					</citeinfo>
+				</lworkcit>
+				<ftname Sync="TRUE">nv_nca</ftname><pubdate>Unpublished Material</pubdate><onlink Sync="TRUE"></onlink></citeinfo>
+		</citation>
+		<descript>
+			<abstract>This data represents the boundaries of designated National Conservation Areas in Nevada.</abstract>
+			<purpose>This data was collected to assist in land use planning and management using GIS technology.</purpose>
+			<supplinf>This data also represents the NCA unit of the National Landscape Conservation System (NLCS).  The attribute data is standardized in accordance with the NLCS GIS Boundary Standards issued in WO-IM 2003-021.</supplinf>
+			<langdata Sync="TRUE">en</langdata></descript>
+		<native Sync="TRUE">Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</native><timeperd><current>publication date</current><timeinfo><sngdate><caldate>20030224</caldate></sngdate></timeinfo></timeperd><status><progress>Complete</progress><update>As needed</update></status><spdom><bounding><westbc>-119.8212</westbc><eastbc>-114.8170</eastbc><northbc>41.6013</northbc><southbc>35.7953</southbc></bounding><lboundng><leftbc Sync="TRUE">264829.781250</leftbc><rightbc Sync="TRUE">681927.875000</rightbc><bottombc Sync="TRUE">3964166.500000</bottombc><topbc Sync="TRUE">4607599.500000</topbc></lboundng></spdom><keywords><theme><themekt>None</themekt><themekey>National Conservation Area</themekey><themekey>NCA</themekey></theme><place><placekey>Nevada</placekey><placekey>Black Rock Desert</placekey><placekey>High Rock Canyon</placekey><placekey>Red Rock Canyon</placekey><placekey>Black Rock Desert High Rock Canyon National Conservation Area</placekey><placekey>Sloan Canyon</placekey><placekt>None</placekt></place></keywords><accconst>Although this data was compiled on the BLM computer system at the Nevada State Office, no liability is assumed for the current accuracy or utility of the data on any system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty for individual or aggregate data use with other data. The BLM shall not be held liable for improper use of the data described and/or contained herein.  By using this data you hereby agree to these conditions.</accconst><useconst>Reference and acknowledge the Bureau of Land Management in products derived from this data.</useconst><natvform Sync="TRUE">ArcInfo Coverage</natvform><datacred>Bureau of Land Management Nevada Field Office and State Office Staff</datacred><ptcontac><cntinfo><cntorgp><cntorg>U.S. DOI Bureau of Land Management</cntorg></cntorgp><cntpos>GIS Coordinator</cntpos><cntaddr><addrtype>mailing address</addrtype><address>P.O. Box 12000</address><city>Reno</city><state>NV</state><postal>89502</postal><country>USA</country></cntaddr><cntvoice>775-861-6400</cntvoice><cntemail>mobrien@nv.blm.gov</cntemail><hours>7:30 - 4:30</hours></cntinfo></ptcontac><secinfo><secclass>Unclassified</secclass></secinfo></idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>The attributes are standardized in accordance with NLCS Standards for GIS.  The attributes were verified for accuracy.</attraccr></attracc>
+		<posacc>
+			<horizpa>
+				<horizpar>Polygon data were collected and ground truthed at the field office the data originated from.</horizpar></horizpa>
+			<vertacc>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>USDOI - BLM - Nevada State Office - Mapping Sciences</origin>
+						<pubdate>Unpublished Material</pubdate>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reno, Nevada</pubplace>
+							<publish>USDOI - Bureau of Land Management</publish>
+						</pubinfo>
+						<lworkcit>
+							<citeinfo>
+								<pubinfo>
+								</pubinfo>
+							</citeinfo>
+						</lworkcit>
+						<title>Field Office Staff</title></citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>unknown</begdate><begtime>unknown</begtime><enddate>20030224</enddate></rngdates>
+					</timeinfo>
+					<srccurr>publication date</srccurr></srctime>
+				<srcscale>1:24000</srcscale><typesrc>electronic mail system</typesrc><srccontr>Digital data collected by field office staff</srccontr></srcinfo>
+			<procstep>
+				<proccont>
+					<cntinfo>
+						<cntpos>GIS Coordinators &amp; Specialists</cntpos>
+						<cntaddr>
+							<addrtype>mailing address</addrtype>
+							<address>P.O. Box 12000</address>
+							<city>Reno</city>
+							<state>NV</state>
+							<postal>89520-0006</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>775-861-6400</cntvoice>
+						<cntemail>mmckee@blm.gov</cntemail>
+						<hours>7:30am - 4:30pm</hours>
+						<cntorgp><cntorg>US Bureau of Land Management - Nevada State Office</cntorg><cntper>Rick Crawford, Stephen Lincoln, Robert Taylor, Marguerite McKee</cntper></cntorgp></cntinfo>
+				</proccont>
+				<procdesc>These data were collected and verified at the Winnemucca and Las Vegas BLM Field Offices.  The two data files were merged together using xtools for ArcView 3.2.  The resulting shapefile was standardized in accordance with the NLCS GIS Boundary Data Standards as directed in WO IM 2003-021, and converted to an ArcInfo coverage using the SHAPEARC command.</procdesc><procsv>ArcView 3.2, xtools extension, ArcInfo8.2</procsv><procdate>20030221</procdate></procstep>
+			<procstep><proccont><cntinfo><cntpos>GIS Specialist</cntpos><cntaddr><addrtype>mailing address</addrtype><address>P.O. Box 12000</address><city>Reno</city><state>NV</state><postal>89520</postal><country>USA</country></cntaddr><cntvoice>775-861-6519</cntvoice><cntemail>mmckee@nv.blm.gov</cntemail><cntorgp><cntorg>US DOI Bureau of Land Management</cntorg><cntper>Marguerite McKee</cntper></cntorgp></cntinfo></proccont><procdesc>Reprojected to UTM Zone 11 Meters NAD83</procdesc><procsv>ArcInfo 8.2</procsv><procdate>20030225</procdate></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><date Sync="TRUE">20040701</date><time Sync="TRUE">08330800</time></procstep></lineage>
+		<logic>Polygon and chain-node topology present.
+Polygons have unique identification values, and all polygons are closed.</logic><complete>These data represent the designated National Conservation Areas in Nevada to date.</complete><cloud>N/A</cloud></dataqual>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="arc">
+				<sdtstype Sync="TRUE">Complete chain</sdtstype>
+				<ptvctcnt Sync="TRUE">37</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="arc"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Arc</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">37</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="label"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Label</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">0</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="label"><sdtstype Sync="TRUE">Label point</sdtstype><ptvctcnt Sync="TRUE">0</ptvctcnt></sdtsterm><esriterm Name="polygon"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">TRUE</esritopo><efeacnt Sync="TRUE">4</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="polygon"><sdtstype Sync="TRUE">GT-polygon composed of chains</sdtstype><ptvctcnt Sync="TRUE">4</ptvctcnt></sdtsterm><esriterm Name="tic"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Tic</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">4</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="tic"><sdtstype Sync="TRUE">Point</sdtstype><ptvctcnt Sync="TRUE">4</ptvctcnt></sdtsterm><esriterm Name="region.nca"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Region</efeageom><esritopo Sync="TRUE">TRUE</esritopo><efeacnt Sync="TRUE">4</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="region.nca"><sdtstype Sync="TRUE">Composite object</sdtstype><ptvctcnt Sync="TRUE">4</ptvctcnt></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<gridsys>
+					<gridsysn>Universal Transverse Mercator</gridsysn>
+					<utm>
+						<utmzone>11</utmzone>
+						<transmer>
+							<sfctrmer>0.999600</sfctrmer>
+							<longcm>-117.000000</longcm>
+							<latprjo>0.000000</latprjo>
+							<feast>500000.000000</feast>
+							<fnorth>0.000000</fnorth>
+						</transmer>
+					</utm>
+				</gridsys>
+				<planci>
+					<plance>coordinate pair</plance>
+					<coordrep>
+					</coordrep>
+					<plandu>Meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Clarke 1866</ellips>
+				<semiaxis>6378206.4000000</semiaxis>
+				<denflat>294.98</denflat>
+			</geodetic>
+			<cordsysn><projcsn>UTM Zone 11 Meters</projcsn></cordsysn></horizsys>
+	</spref>
+	<eainfo>
+		<overview>
+		</overview>
+		<detailed Name="nv_nca.aat"><enttyp><enttypl Sync="TRUE">nv_nca.aat</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">37</enttypc><enttypd>Arc Attribute Table</enttypd><enttypds>Software generated</enttypds></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">FNODE#</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">Internal node number for the beginning of an arc (from-node).</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">TNODE#</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">Internal node number for the end of an arc (to-node).</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">LPOLY#</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">Internal node number for the left polygon.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">RPOLY#</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">Internal node number for the right polygon.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">LENGTH</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec><attrdef Sync="TRUE">Length of feature in internal units.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">NV_NCA#</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">NV_NCA-ID</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">User-defined feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs></attr><attr><attrlabl Sync="TRUE">NCA_DEF_FEATURE</attrlabl><attwidth Sync="TRUE">30</attwidth><atoutwid Sync="TRUE">30</atoutwid><attrtype Sync="TRUE">Character</attrtype><attrdef>The coincident physical feature used to define the line.</attrdef><attrdefs>National Landscape Conservation System GIS Boundary Data Standards</attrdefs><attrdomv><udom>User defined coincident line source.</udom></attrdomv><begdatea>unknown</begdatea><enddatea>20030221</enddatea></attr><attr><attrlabl Sync="TRUE">NCA_COORD_SOURCE</attrlabl><attwidth Sync="TRUE">20</attwidth><atoutwid Sync="TRUE">20</atoutwid><attrtype Sync="TRUE">Character</attrtype><attrdef>The coordinating source of the defining feature. (this may be a DRG, DLG, coverage, etc)</attrdef><attrdefs>National Landscape Conservation System GIS Boundary Data Standards</attrdefs><attrdomv><udom>User defined coincident line source.</udom></attrdomv><begdatea>unknown</begdatea><enddatea>20030221</enddatea></attr></detailed><detailed Name="nv_nca.pat"><enttyp><enttypl Sync="TRUE">nv_nca.pat</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">4</enttypc><enttypd>Polygon attribute table</enttypd><enttypds>Software generated</enttypds></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">AREA</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">PERIMETER</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec><attrdef Sync="TRUE">Perimeter of feature in internal units.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">NV_NCA#</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">NV_NCA-ID</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">User-defined feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs></attr><attr><attrlabl Sync="TRUE">NCA_CASEFILE</attrlabl><attwidth Sync="TRUE">15</attwidth><atoutwid Sync="TRUE">15</atoutwid><attrtype Sync="TRUE">Character</attrtype><attrdef>The serialized casefile number for the NCA</attrdef><attrdefs>National Landscape Conservation System GIS Boundary Data Standards</attrdefs><attrdomv><udom>Alpha-Numeric identification number</udom></attrdomv><begdatea>unknown</begdatea><enddatea>20030221</enddatea></attr><attr><attrlabl Sync="TRUE">NCA_NAME</attrlabl><attwidth Sync="TRUE">50</attwidth><atoutwid Sync="TRUE">50</atoutwid><attrtype Sync="TRUE">Character</attrtype><attrdef>The official name of the NCA</attrdef><attrdefs>National Landscape Conservation System GIS Boundary Data Standards</attrdefs><attrdomv><udom>Text - Unique name assigned to NCA</udom></attrdomv><begdatea>unknown</begdatea><enddatea>20030221</enddatea></attr><attr><attrlabl Sync="TRUE">NCA_STATE</attrlabl><attwidth Sync="TRUE">2</attwidth><atoutwid Sync="TRUE">2</atoutwid><attrtype Sync="TRUE">Character</attrtype><attrdef>The administrative State for the NCA</attrdef><attrdefs>National Landscape Conservation System GIS Boundary Data Standards</attrdefs><attrdomv><udom>Text - The official two letter state abbreviation</udom></attrdomv><begdatea>unknown</begdatea><enddatea>20030221</enddatea></attr></detailed><detailed Name="nv_nca.patnca"><enttyp><enttypl Sync="TRUE">nv_nca.patnca</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">4</enttypc><enttypds>Software generated</enttypds></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">AREA</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">PERIMETER</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec><attrdef Sync="TRUE">Perimeter of feature in internal units.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">NCA#</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">NCA-ID</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">User-defined feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs></attr><attr><attrlabl Sync="TRUE">RINGS_OK</attrlabl><attwidth Sync="TRUE">7</attwidth><atoutwid Sync="TRUE">7</atoutwid><attrtype Sync="TRUE">Integer</attrtype><attrdefs>Software generated</attrdefs></attr><attr><attrlabl Sync="TRUE">RINGS_NOK</attrlabl><attwidth Sync="TRUE">7</attwidth><atoutwid Sync="TRUE">7</atoutwid><attrtype Sync="TRUE">Integer</attrtype><attrdefs>Software generated</attrdefs></attr><attr><attrlabl>NCA_CASEFILE</attrlabl><attwidth Sync="TRUE">15</attwidth><atoutwid Sync="TRUE">15</atoutwid><attrtype Sync="TRUE">Character</attrtype><attrdefs>National Landscape Conservation System GIS Boundary Data Standards</attrdefs><attrdef>The serialized casefile number for the NCA</attrdef><attrdomv><udom>Alpha-numeric identification number</udom></attrdomv><begdatea>unknown</begdatea><enddatea>20030221</enddatea></attr><attr><attrlabl Sync="TRUE">NCA_NAME</attrlabl><attwidth Sync="TRUE">50</attwidth><atoutwid Sync="TRUE">50</atoutwid><attrtype Sync="TRUE">Character</attrtype><attrdefs>National Landscape Conservation System GIS Boundary Data Standards</attrdefs><attrdef>The official name of the NCA</attrdef><attrdomv><udom>Text - name of NCA</udom></attrdomv><begdatea>unknown</begdatea><enddatea>20030221</enddatea></attr><attr><attrlabl Sync="TRUE">NCA_STATE</attrlabl><attwidth Sync="TRUE">2</attwidth><atoutwid Sync="TRUE">2</atoutwid><attrtype Sync="TRUE">Character</attrtype><attrdefs>National Landscape Conservation System GIS Boundary Data Standards</attrdefs><attrdef>The administrative State for the NCA</attrdef><attrdomv><udom>Text - The official two character State abbreviation</udom></attrdomv><begdatea>unknown</begdatea><enddatea>20030221</enddatea></attr></detailed></eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>US Bureau of Land Management - Nevada State Office</cntorg>
+				</cntorgp>
+				<cntpos>GIS Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>P.O. Box 12000</address>
+					<city>Reno</city>
+					<state>NV</state>
+					<postal>89520-0006</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>775-861-6400</cntvoice>
+				<cntemail>mobrien@blm.gov</cntemail>
+				<hours>7:30am - 4:30pm</hours>
+			</cntinfo>
+		</distrib>
+		<distliab>
+The Bureau of Land Management (BLM) provides these
+geographic data "as is." BLM makes no guarantee or warranty
+concerning the accuracy of information contained in the
+geographic data. BLM further makes no warranties, either
+expressed or implied, as to any other matter whatsoever,
+including, without limitation, the condition of the
+product, or its fitness for any particular purpose. The
+burden for determining fitness for use lies entirely with
+the user. Although these data have been processed
+successfully on computers of BLM, no warranty, expressed or
+implied, is made by BLM regarding the use of these data on
+any other system, nor does the fact of distribution
+constitute or imply any such warranty.
+Technical_Prerequisites  have ArcInfo, ArcView or any other
+GIS that will read an ArcInfo
+export (*.e00) file.
+</distliab>
+		<stdorder><digform><digtinfo><transize Sync="TRUE">0.067</transize><dssize Sync="TRUE">0.067</dssize></digtinfo></digform><ordering>Contact the Nevada BLM GIS Coordinator</ordering></stdorder><techpreq>ArcView, ArcInfo, or other software that can read an ArcInfo coverage</techpreq></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20030717</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>US Bureau of Land Management - Nevada State Office</cntorg>
+					<cntper>Data Administrator</cntper>
+				</cntorgp>
+				<cntpos>GIS Coordinator</cntpos>
+				<cntaddr>
+					<addrtype>Mailing and physical address</addrtype>
+					<address>P.O. Box 12000</address>
+					<city>Reno</city>
+					<state>NV</state>
+					<postal>89520-0006</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>775-861-6400</cntvoice>
+				<cntemail>mobrien@blm.gov</cntemail>
+				<hours>7:30am - 4:30pm</hours>
+			</cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<langmeta Sync="TRUE">en</langmeta><mettc Sync="TRUE">local time</mettc><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns><metrd>20030224</metrd><metfrd>20040201</metfrd><metac>Although this data was compiled on the BLM computer system at the Nevada State Office, no liability is assumed for the current accuracy or utility of the data on any system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty for individual or aggregate data use with other data. The BLM shall not be held liable for improper use of the data described and/or contained herein.  By using this data you hereby agree to these conditions.</metac><metuc>Reference and acknowledge the Bureau of Land Management in products derived from this data.</metuc><metsi><metsc>Unclassified</metsc></metsi></metainfo>
+The attribute data is standardized in accordance with the NLCS GIS Boundary Standards issued in WO-IM 2003-021.
+<Esri><CreaDate>20040701</CreaDate><CreaTime>08330800</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20030221</SyncDate><SyncTime>15432800</SyncTime><ModDate>20030717</ModDate><ModTime>15594400</ModTime><Sync>FALSE</Sync><MetaID>{44495F35-4369-43AE-A9C7-F1C4DFBFF082}</MetaID></Esri><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows NT Version 4.0 (Build 1381) Service Pack 6; ESRI ArcCatalog 8.2.0.700</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">nv_nca</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><geoBox esriExtentType="native"><westBL Sync="TRUE">264829.78125</westBL><eastBL Sync="TRUE">681927.875</eastBL><northBL Sync="TRUE">4607599.5</northBL><southBL Sync="TRUE">3964166.5</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">0.067</transSize></distorTran><distorFormat><formatName Sync="TRUE">ArcInfo Coverage</formatName></distorFormat></distributor></distInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="004"></TopoLevCd></topLvl><geometObjs Name="arc"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="003"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">37</geoObjCnt></geometObjs><geometObjs Name="label"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">0</geoObjCnt></geometObjs><geometObjs Name="polygon"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="002"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4</geoObjCnt></geometObjs><geometObjs Name="tic"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4</geoObjCnt></geometObjs><geometObjs Name="region.nca"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="001"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">4</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20030717</mdDateSt></metadata>
