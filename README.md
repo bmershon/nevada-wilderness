@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/nevada/teaser.png" width="100%" alt="nevada-wilderness">
+<img src="https://github.com/bmershon/published-urls/raw/master/img/reid-nevada/reid-nevada.png" width="100%" alt="nevada-wilderness">
 
 ### Quickstart ###
 
