@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/bmershon/bmershon.github.io/master/img/nevada/teaser.png" width="100%" alt="nevada-wilderness">
+
 ### Quickstart ###
 
 Install the `node` requirements (Topojson, ).
