@@ -2,7 +2,7 @@
 
 ### Quickstart ###
 
-Install the `node` requirements (Topojson, ).
+Install the `node` requirements.
 ```
 npm Install
 ```
