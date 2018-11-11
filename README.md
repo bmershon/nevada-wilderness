@@ -16,7 +16,7 @@ You can use `make clean` to start afresh, and you can use `make redo` to re-proj
 
 The goal of this project was to create a high-resolution static graphic for web and print use. The graphic found in the published links shows a map and timeline depicting the cumulative wilderness area that has been designated from 1964-2015 as a result of Harry Reid's conservation efforts.
 
-####Pipeline:####
+#### Pipeline
 
 Government shapefiles must be downloaded and then filtered to produce the 'combined.json' file with only the necessary geometry. Ideally, only the necessary attributes will be retained when large numbers of polygons are involved, since unused attributes are duplicated.
 
